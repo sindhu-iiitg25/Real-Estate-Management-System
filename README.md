@@ -3,15 +3,10 @@
 
 Here is a video demo of the website. Before you watch it, give this a read for a better understanding.
 
-### USER CLASSES
- - AGENT
- - USER (BUYER OR SELLER)
- - ESTATE OFFICE
-
-### USER CLASS SCOPE:
-- estate office can nagivate through a comprehensive report of the agents working for it and their respective sales along with the below listed operations.
-- while the agents can view their dashboard 
-- and the general website avaiable for the users - buyers or sellers of realestate to view/add the property listings and connect with the agents.
+### USER CLASSES & their SCOPE
+ - AGENT: can view their dashboard 
+ - USER (BUYER OR SELLER): view/add the property listings and connect with the agents
+ - ESTATE OFFICE: can nagivate through a comprehensive report of the agents working for it and their respective sales along with the above operations.
 
 https://github.com/user-attachments/assets/f646cdea-1c51-464b-aee6-423b93d51835
 
