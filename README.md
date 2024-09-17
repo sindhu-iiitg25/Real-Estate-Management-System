@@ -1,7 +1,8 @@
-# DBMS CS241-project: Real Estate Management System
+#Real Estate Management System
+## DBMS CS241-project
 ### Reference city: Hartford, United States
 
-Here is a video demo of the website. Before you watch it, give this a read for a better understanding.
+Here is a video demo of the website. Before you watch it, give this a brief read for better understanding.
 
 ### USER CLASSES & their SCOPE
  - AGENT: can view their dashboard 
