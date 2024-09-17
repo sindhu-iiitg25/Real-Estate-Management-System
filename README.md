@@ -1,3 +1,6 @@
 # Real-Estate-Management-System
 DBMS project
-[![Watch the video](https://raw.githubusercontent.com/sindhu-iiitg25/Real-Estate-Management-System/main/thumbnail.jpg)](https://raw.githubusercontent.com/sindhu-iiitg25/Real-Estate-Management-System/main/video.mp4)
+<video width="600" controls poster="thumbnail.jpg">
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
