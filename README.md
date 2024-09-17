@@ -1,6 +1,5 @@
 # Real-Estate-Management-System
-DBMS project
-<video width="600" controls poster="thumbnail.jpg">
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/a6557469-e3bb-4fc6-b0b3-695f9121fb76
+
